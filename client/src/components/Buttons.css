@@ -1,0 +1,32 @@
+.buttons {
+    position: fixed;
+    bottom: 7vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.buttons .MuiIconButton-root {
+    background-color: white;
+    box-shadow: 0 10px 53px 0 rgba(0, 0, 0, 0.3) !important;
+}
+
+.btn_replay {
+    color: #f5b748 !important;
+}
+
+.btn_close {
+    color: #f54848 !important;
+}
+
+.btn_star {
+    color: #4896f5 !important;
+}
+
+.btn_favorite {
+    color: #48f593 !important;
+}
+
+.btn_flash {
+    color: #9f48f5 !important;
+}
